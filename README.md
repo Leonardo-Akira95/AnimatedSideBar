@@ -1,1 +1,2 @@
-# AnimatedSideBar
+# Animated RPG Themed Sidebar
+
